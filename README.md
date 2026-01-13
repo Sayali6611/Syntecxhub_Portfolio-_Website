@@ -29,10 +29,10 @@ This project was created and submitted as part of the **Syntecxhub Frontend Inte
 ##  Output Screenshots
 
 ## Desktop View
-Desktop View( image/desktop.png)
+Desktop View (Image/desktop.png)
 
 ## Mobile View
-Mobile Menu (image/mobile.png)
+Mobile Menu (Image/mobile.png)
 
 
 
