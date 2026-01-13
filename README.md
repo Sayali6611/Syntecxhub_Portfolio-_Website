@@ -19,10 +19,20 @@ This is a responsive single-page portfolio website created using **HTML and CSS 
 - Projects
 - Contact
 
-
 ##  How to Run
 1. Download or clone this repository
 2. Open `index.html` in your browser
 
 ##  Internship Task
 This project was created and submitted as part of the **Syntecxhub Frontend Internship Program**.
+
+##  Output Screenshots
+
+## Desktop View
+Desktop View( image/desktop.png)
+
+## Mobile View
+Mobile Menu (image/mobile.png)
+
+
+
